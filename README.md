@@ -1,6 +1,5 @@
 <!-- Title with Logo -->
 <div align="center">
-  <img src="your_logo_url_here" alt="Your Logo" width="200px">
   <h1>IT Student Engineer README</h1>
 </div>
 
