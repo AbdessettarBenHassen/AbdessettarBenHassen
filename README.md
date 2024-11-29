@@ -63,7 +63,6 @@ Let's connect and collaborate! You can reach me via:
 - **Email**: [abdessettar.benhassen@gmail.com](mailto:abdessettar.benhassen@gmail.com)
 - **Phone**: +216 51913242
 - **LinkedIn**: [Abdessettar Ben Hassen](https://www.linkedin.com/in/abdessettar-ben-hassen-376019202/)
-- **GitHub**: [GitHub Profile]((https://github.com/AbdessettarBenHassen/AbdessettarBenHassen))
 
 Feel free to explore my repositories and reach out for any inquiries or opportunities. Looking forward to connecting with you!
 
