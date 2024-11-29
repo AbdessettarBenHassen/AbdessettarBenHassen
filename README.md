@@ -1,6 +1,6 @@
 <!-- Title with Logo -->
 <div align="center">
-  <h1>IT Student Engineer README</h1>
+  <h1>Abdessettar Ben Hassen - IT Student Engineer</h1>
 </div>
 
 ---
@@ -8,7 +8,7 @@
 <!-- Introduction -->
 ## 🌟 Introduction
 
-Hello there! I'm [Your Name], an enthusiastic IT student engineer passionate about technology, programming, and problem-solving. This README serves as an introduction to my projects, skills, and interests.
+Hello there! I'm Abdessettar Ben Hassen, an IT student engineer at ESPRIT University, specializing in Computer Engineering. I have a passion for robotics, programming, and solving challenging problems. Welcome to my GitHub, where you can explore my projects and learn more about my skills and experiences.
 
 ---
 
@@ -25,7 +25,7 @@ Hello there! I'm [Your Name], an enthusiastic IT student engineer passionate abo
 <!-- About Me Section -->
 ## 🚀 About Me
 
-I'm currently pursuing a degree in Information Technology, with a focus on software development and system administration. My journey in IT began with a fascination for computers and has evolved into a deep interest in creating impactful solutions using technology.
+I am currently pursuing a degree in Computer Engineering at ESPRIT University. My academic journey has equipped me with hands-on experience in programming and robotics, fostering my passion for innovation and technology. Over the years, I’ve developed expertise in C, C++, Python, and robotics platforms such as Arduino and ESP32, which I studied during my coursework.
 
 ---
 
@@ -33,47 +33,25 @@ I'm currently pursuing a degree in Information Technology, with a focus on softw
 ## 💻 Skills
 
 ### Programming Languages:
+- C
+- C++
 - Python
-- JavaScript
-- Java
-- C#
 
-### Web Development:
-- HTML/CSS
-- React
-- Node.js
-- Flask
+### Robotics:
+- Arduino
+- ESP32
 
-### Databases:
-- SQL (MySQL, PostgreSQL)
-- NoSQL (MongoDB)
-
-### DevOps:
-- Docker
-- Kubernetes
-- CI/CD pipelines (GitHub Actions, Jenkins)
+### Additional Skills:
+- Problem-Solving
+- Team Collaboration
+- Basic Electronics for Robotics Projects
 
 ---
 
 <!-- Projects Section -->
 ## 🛠️ Projects
 
-Here are some of my notable projects:
-
-1. **Project Name 1**
-   - Description: Brief description of the project.
-   - Technologies Used: List of technologies used.
-   - GitHub Repository: [Link](https://github.com/your_username/project1)
-
-2. **Project Name 2**
-   - Description: Brief description of the project.
-   - Technologies Used: List of technologies used.
-   - GitHub Repository: [Link](https://github.com/your_username/project2)
-
-3. **Project Name 3**
-   - Description: Brief description of the project.
-   - Technologies Used: List of technologies used.
-   - GitHub Repository: [Link](https://github.com/your_username/project3)
+Stay tuned! I'll be adding my projects here soon.
 
 ---
 
@@ -82,9 +60,10 @@ Here are some of my notable projects:
 
 Let's connect and collaborate! You can reach me via:
 
-- Email: [your_email@example.com](mailto:your_email@example.com)
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your_username/)
-- GitHub: [Your GitHub Profile](https://github.com/your_username)
+- **Email**: [abdessettar.benhassen@gmail.com](mailto:abdessettar.benhassen@gmail.com)
+- **Phone**: +216 51913242
+- **LinkedIn**: [Abdessettar Ben Hassen](https://www.linkedin.com/in/abdessettar-ben-hassen-376019202/)
+- **GitHub**: [GitHub Profile](https://github.com/your_username)
 
 Feel free to explore my repositories and reach out for any inquiries or opportunities. Looking forward to connecting with you!
 
@@ -92,6 +71,5 @@ Feel free to explore my repositories and reach out for any inquiries or opportun
 
 <!-- Footer with Logo -->
 <div align="center">
-  <img src="your_logo_url_here" alt="Your Logo" width="200px">
-  <p>Copyright © 2024 Your Name. All rights reserved.</p>
+  <p>Copyright © 2024 Abdessettar Ben Hassen. All rights reserved.</p>
 </div>
