@@ -46,7 +46,11 @@ Interests: embedded C/C++ & firmware · RTOS · embedded Linux · automotive (CA
 - 🏅 Top 8 worldwide – **Battle of Robots**, Russia, 2026
 - 🥈 2nd place – **Sumo Robots, EPI ROBOTS 2.0**, Tunisia, 2026
 - Chair, **IEEE RAS ESPRIT Student Chapter** (Mar 2025 – Mar 2026) · IEEE ESPRIT Star Member 2024
-- NVIDIA DLI certificates: Fundamentals of Deep Learning; Generative AI with Diffusion Models (2026)
+
+## Certifications
+
+- **NVIDIA Deep Learning Institute** – Fundamentals of Deep Learning (2026)
+- **NVIDIA Deep Learning Institute** – Generative AI with Diffusion Models (2026)
 
 ---
 
